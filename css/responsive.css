@@ -1,0 +1,75 @@
+@media (max-width: 768px){
+	.button {
+		padding: 23px 23px;
+	}
+	.responsive-tabs__list__item {
+		padding: 30px 27px;
+	}
+	.carousel-control .glyphicon-chevron-right, .carousel-control .icon-next {
+    margin-right: 180px;
+	}
+	.carousel-control .glyphicon-chevron-left, .carousel-control .icon-next {
+    margin-left: 180px;
+	}
+	.team_menu1 li a {
+		padding: 20px 19px !important;
+	}
+	.fa-fr > input {
+		width: 90%;
+	}
+	.fa-fr textarea{
+		width: 90%;
+	}
+	.fa-fr button{
+		width: 90%;
+	}
+	.Purchase h1 {
+		font-size: 30px;
+	}
+	.Purchase_top h1 {
+		font-size: 40px;
+	}
+	.Purchase_top h2 {
+		font-size: 30px;
+	}
+	.slider_jumb h2{
+		padding-top: 70px;
+		padding-bottom: 30px;
+	}
+	.slider_jumb h1 {
+     font-size: 60px;
+	     padding-bottom: 30px;
+	}
+	.slider_jumb h2 {
+    font-size: 30px;
+	}
+	.slider_jumb h3 {
+		font-size: 20px;
+		padding-bottom: 70px;
+	}
+	.slider_jumb p a {
+    padding: 20px 25px;
+	}
+	.slider_jumb {
+		padding-bottom: 110px;
+	}
+}
+
+@media (max-width: 480px){
+	.navbar-toggle {
+		margin-top: 40px;
+		margin-right: 50px;
+		margin-bottom: 30px;
+	}
+	.top_nab_right li a{
+		line-height: 70px;
+	}
+	.option1, .option2{
+		margin-bottom:30px;
+		
+	}
+	.option4{
+		border-top: 7px solid #1C2A33;
+	}
+	
+}
